@@ -656,3 +656,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.01-03.40.32:008][972]Cmd: MAP CHECKDEP NOCLEARLOG
 [2020.02.01-03.40.32:008][972]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
 [2020.02.01-03.40.32:008][972]LogFileHelpers: Loading map 'Kindras_test_map' took 0.076
+[2020.02.01-03.41.26:481][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.02.01-03.41.26:610][454]LogSavePackage: Moving '../../../../../../Users/u0865157/Documents/GitHub/GGJ2020Project/GGJ_Project_Ver1/Saved/Kindras_test_mapFEE6B30E4536EE0E7A14BF873705E55E.tmp' to '../../../../../../Users/u0865157/Documents/GitHub/GGJ2020Project/GGJ_Project_Ver1/Content/Kindras_Assets/Kindras_test_map.umap'
+[2020.02.01-03.41.26:643][454]AssetCheck: New page: Asset Save: Kindras_test_map
+[2020.02.01-03.41.26:643][454]LogContentValidation: Display: Validating World /Game/Kindras_Assets/Kindras_test_map.Kindras_test_map
